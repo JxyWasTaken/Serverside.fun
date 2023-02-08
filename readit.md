@@ -50,10 +50,12 @@ return module
 # 2. FAQ
 
     - How can I delete it?
+!!(PLUGIN NOT READY YET!!!!!!! IF YOU CANT FIND INFECTED MODULE PLEASE DM ME ON DISCORD.)!!
+
 First, open the plugin and it will start scanning the game. If it cannot find the module, you will need to find it manually. Advice: go to the webhook, find  the location and start from there.
     
     - I can't find it, what can I do?
-Come to our Discord.
+write me on discord if you cant find me please send a friend request i will open a discord server for it.
 
 # End
 
