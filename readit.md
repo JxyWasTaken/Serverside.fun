@@ -1,4 +1,6 @@
 ### Hello guys, please read carefully.
+!!!PLUGIN AND DISCORD SERVER NOT READY YET MY DISCORD ACCOUNT BELOW!!!
+Discord : Jxy#9426
 # 1. Links
 
     - https://assetdelivery.org
